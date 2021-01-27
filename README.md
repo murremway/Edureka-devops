@@ -1,2 +1,2 @@
 # Edureka-devops
-this is a project by yinka adesina olawale
+this is a project by yinka adesina olawale ibadan
